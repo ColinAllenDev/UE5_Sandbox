@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A77FF8F0-4994-CD7B-62A3-55BF6AE98BB0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ScratchCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
